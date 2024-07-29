@@ -48,7 +48,7 @@
 ### 💾 Работа с данными:
 
 <div>
-  <img src="https://www.firebirdsql.org/img/site/logo-firebird-black.png" title="firebird" alt="firebird" width="40" height="40"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/6057940?s=200&v=4" title="firebird" alt="firebird" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="oracle" alt="oracle" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp  
